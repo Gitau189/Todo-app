@@ -40,7 +40,7 @@ To run this project on your machine, you'll need the following:
 
 1.  **Clone the repository:** `git clone [repository URL]`
 2.  **Navigate to the project directory:** `cd todo_project`
-3.  **Install dependencies:** `pip install -r requirements.txt` (If you have a requirements.txt file. if not skip this step).
+3.  **Install dependencies:** `pip install the requirements above` 
 4.  **Run migrations:** `python manage.py makemigrations` and `python manage.py migrate`
 5.  **Start the development server:** `python manage.py runserver`
 6.  **Open your web browser:** Go to `http://127.0.0.1:8000/`
